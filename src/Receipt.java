@@ -20,9 +20,14 @@
  */
 public class Receipt {
     public static void main(String[] args) {
-System.out.println("===============================/n")
-System.out.println("ITEM            QTY     PRICE/n")
+System.out.println("=========================");
+System.out.println("ITEM\t\tQTY\tPRICE");
+System.out.println("=========================");
+System.out.println("Notebook\t2\t$17\nPencil\t\t3\t$6\nPost-Its\t47\t$1");
+System.out.println("=========================");
+System.out.println("TOTAL\t\t\t$24");
+
         // Your code here
 
-    }
+     }
 }
